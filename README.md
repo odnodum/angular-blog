@@ -3,3 +3,5 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 Простой блог со сложной архитектурой
+
+Полностью законченное приложение на TypeScript и Angular 16 
