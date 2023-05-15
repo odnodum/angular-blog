@@ -4,4 +4,4 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 Простой блог со сложной архитектурой
 
-Полностью законченное приложение на TypeScript и Angular 16 
+Полностью законченное приложение-блог на TypeScript, Angular 16 и Firebase
